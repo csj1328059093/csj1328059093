@@ -1,6 +1,6 @@
-- 👋 Hi, I haven't decided my English name yet.
-- 👀 I’m interested in front-end.
-- 💞️ Let's start our front-end journey.
+- 你好，可以叫我月亮，这个网名伴随了我好多年，已经成为我的代号了。
+- 我是一个前端开发者，也是爱好者。
+- 让我们开始我们的前端之旅吧！
 
 <!---
 csj1328059093/csj1328059093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
